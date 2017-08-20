@@ -16,7 +16,7 @@ Users should be able to:
 * Toggle items in their portfolio as in use/lent out, so as not to be contacted for items not available. _(This should also probably hide items from search completely.)_
 * Post publicly when they are seeking something.
 
-* _Ruby version 2.3.0_
+_Ruby version 2.3.0_
 
 # Schema as of 8/20/2017:
 ![Prop Exchange Schema](Schema-Aug-20-2017.png "Prop Exchange Schema")
