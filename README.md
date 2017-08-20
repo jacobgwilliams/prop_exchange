@@ -14,10 +14,9 @@ Users should be able to:
 * Be able to search the database of props by name and other descriptors.
 * Be able to select an item, then reach out to the user who owns that item to request borrowing it.
 * Toggle items in their portfolio as in use/lent out, so as not to be contacted for items not available. _(This should also probably hide items from search completely.)_
-Users should also be able to:
-* Post when they are seeking something.
+* Post publicly when they are seeking something.
 
-* Ruby version 2.3.0
+* _Ruby version 2.3.0_
 
 # Schema as of 8/20/2017:
 ![Prop Exchange Schema](Schema-Aug-20-2017.png "Prop Exchange Schema")
