@@ -20,4 +20,4 @@ Users should also be able to:
 * Ruby version 2.3.0
 
 # Schema as of 8/20/2017:
-![Prop Exchange Schema](https://www.github.com/jacobgwilliams/prop_exchange/Schema-Aug-20-2017.png "Prop Exchange Schema")
+![Prop Exchange Schema](Schema-Aug-20-2017.png "Prop Exchange Schema")
