@@ -1,0 +1,11 @@
+<h1>Sign up for Prop Exchange</h1>
+
+<%= form_for :user, url: '/users' do |f| %>
+  Name: <%= f.text_field :name %><br>
+  Email: <%= f.text_field :email %><br>
+  Comedy Affiliation: <%= f.select :affiliation, [ 'UCB Theatre','The PIT','The Magnet', 'Other' ], :prompt => 'Select One:' %><br>
+  Password: <%= f.password_field :password %><br>
+  Password Confirmation: <%= f.password_field :password_confirmation %><br>
+  <%= f.submit "Submit" %>
+
+<% end %>
