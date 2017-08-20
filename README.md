@@ -5,7 +5,7 @@ This is a work in progress. The purpose of this project is to create an applicat
 
 This is intended to improve upon the usefulness of the Facebook group [Sketch Props and Costumes](https://www.facebook.com/groups/1164013003650188/).
 
-She shortcoming with this Facebook group is that it requires members to post generally in the Discussion thread of the group to request specific props, but it can be a bit of a crap shoot in terms of actually getting results.
+The shortcoming with this Facebook group is that it requires members to post generally in the Discussion thread of the group to request specific props, but it can be a bit of a crap shoot in terms of actually getting results.
 
 Users should be able to:
 * Create an account. _Stretch goal is users should validate identity by logging in with their Facebook account._
